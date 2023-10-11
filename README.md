@@ -10,7 +10,7 @@
 
   👨‍💻 Software Engineer @ Multinational MNC
   
-  ⚡ Check Out My Projects</td>  
+  ⚡ Check Out My Projects : <a href = "https://yash-merchapp.netlify.app/">One</a>, <a href = "https://yash-salon-devlopment.netlify.app/">Two</a></td>  
   <td>
   <p align="right">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
