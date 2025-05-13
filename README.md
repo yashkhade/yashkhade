@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">Software developer from India</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashkhade&label=🎯%20Hit%20Counter%20%20%20%20&style=flat&color=blue&base=100" alt="Profile views"/>
+</p>
 
 <table align="center" border="0">  
   <tr>  
